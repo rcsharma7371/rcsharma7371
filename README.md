@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @rcsharma7371
-- 
-- 🌱 I’m currently learning MERN stack.
 # 💫 About Me:
 👋Hi, I’m Ranjeet Kumar<br>👀 I’m interested in creating a new coding world.<br>👯 I’m looking to collaborate on an organization<br>🌱 I’m currently learning MERN full stack <br>📫 How to reach me ...<br>- rrkumar7371@gmail.com
 
